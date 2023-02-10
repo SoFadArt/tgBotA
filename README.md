@@ -7,4 +7,4 @@
 Бот отвечает информацией: город, температура. влажность, скорость ветра, направление и давление.
 
 # Пример работы программы:
- ![Image alt](https://github.com/SoFadArt/tgBotA/blob/main/img/1.png
+ ![Image alt](https://github.com/SoFadArt/tgBotA/blob/main/img/1.png)
