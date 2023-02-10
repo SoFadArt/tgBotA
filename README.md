@@ -9,3 +9,4 @@
 # Пример работы программы:
 (img/1.PNG)
 
+https://github.com/SoFadArt/tgBotA/blob/main/img/1.png
