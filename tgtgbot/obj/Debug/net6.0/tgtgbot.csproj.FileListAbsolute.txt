@@ -1,0 +1,17 @@
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\tgtgbot.exe
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\tgtgbot.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\tgtgbot.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\tgtgbot.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\ref\tgtgbot.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\tgtgbot.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\ref\tgtgbot.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\weather_tg\tgtgbot\obj\Debug\net6.0\tgtgbot.genruntimeconfig.cache
